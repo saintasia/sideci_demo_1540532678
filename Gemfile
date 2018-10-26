@@ -25,6 +25,8 @@ group :development do
   gem 'listen',                '3.1.5'
   gem 'spring',                '2.0.2'
   gem 'spring-watcher-listen', '2.0.1'
+  gem 'rubocop', '0.52.1'
+  gem 'meowcop'
 end
 
 group :test do
